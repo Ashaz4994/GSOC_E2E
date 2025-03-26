@@ -18,3 +18,5 @@ First, I trained my model on the data and got an ROC AUC score of 0.78 on ResNet
 |Resnet15|0.78|-|
 |SEResnet15|0.78|0.8|
 |Feed Forward Neural Network|-|0.81|
+
+[Model Weights](https://drive.google.com/drive/folders/17QkTxSgGILdHlKxdvq2YA2N5BGDRe3R4?usp=drive_link)
