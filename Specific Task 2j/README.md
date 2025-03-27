@@ -11,6 +11,6 @@ We were supposed to train an MLP that maps every image vector to its rotated ver
 #### Unsupervised Symmetry Discovery
 I took the latent space vector of each image and trained an oracle that predicts the correct label for an image. It achieved an ROC AUC score of 0.999.  
 
-After that, I implemented the loss function mentioned in the paper and trained the generator, but I did not obtain satisfactory results.
+After that, I implemented the loss function mentioned in the paper and trained the generator, but I did not obtain satisfactory results. It could be due to high dimension that i have choosen for latent space.
 
 #### [Model Weights](https://drive.google.com/drive/folders/16NFYIhpMY22iWh4UoLRgfapQuLCeiAx_?usp=drive_link)
